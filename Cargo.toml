@@ -1,0 +1,9 @@
+#[package]
+#name = "Algorithm"
+#version = "0.1.0"
+#authors = ["zhaox1n <zhao.x1n@foxmail.com>"]
+#edition = "2018"
+[workspace]
+members = [
+    "window_function"
+]
